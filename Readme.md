@@ -1,8 +1,8 @@
 # 🚗Fivem vehicle tint meter script
 ## 🛡️STANDALONE
-## 👀For check others players windows opacity in fivem
-## Thanks for downloading our script :heart:
-## ⚙️Requirements - ox_lib
+👀For check others players windows opacity in fivem
+Thanks for downloading our script :heart:
+⚙️Requirements - ox_lib
 
 # 📷Preview - https://www.youtube.com/watch?v=bjej3wEYGkk
 
