@@ -16,7 +16,7 @@
 		stack = false,
 		description = 'Tint meter for checking opacity of windows',
 		client = {
-			export = 'dr-tintmeter.TintMeter'
+			export = 'drf-tintmeter.TintMeter'
 		}
 	},
 
